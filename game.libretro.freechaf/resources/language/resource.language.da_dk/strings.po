@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.5.1\n"
 
+msgctxt "Addon Summary"
+msgid "Fairchild ChannelF (FreeChaF) 1.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility.
+
+Supported files: .bin, .rom, .chf"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Indstillinger"

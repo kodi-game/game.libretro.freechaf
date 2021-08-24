@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Fairchild ChannelF (FreeChaF) 1.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility.
+
+Supported files: .bin, .rom, .chf"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
