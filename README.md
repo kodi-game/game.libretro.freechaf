@@ -4,9 +4,21 @@
 # Fairchild ChannelF (FreeChaF)
 
 ### Description
+
 FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility.
 
 ### License
+
 GPLv3
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
