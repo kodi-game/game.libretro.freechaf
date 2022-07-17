@@ -1,1 +1,1 @@
-freechaf https://github.com/libretro/FreeChaF/archive/cc975633cbb2002bfee61e9397e7e6d57ac69079.tar.gz
+freechaf https://github.com/libretro/FreeChaF/archive/1030d5e64078767480cccef4c7e5539db4be31b9.tar.gz
