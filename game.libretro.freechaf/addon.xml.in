@@ -18,6 +18,9 @@
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.freechaf</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Fairchild ChannelF (FreeChaF) 1.0</summary>
 		<description lang="da_DK">FreeChaF er en libretro-emuleringskerne til Fairchild ChannelF/Video Entertainment System designet til joypad-kompatibilitet.</description>
 		<description lang="en_GB">FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility.</description>
