@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.freechaf/resources/icon.png)
+![Fairchild ChannelF (FreeChaF) icon](game.libretro.freechaf/resources/icon.png)
 
 ### Fanart
 
