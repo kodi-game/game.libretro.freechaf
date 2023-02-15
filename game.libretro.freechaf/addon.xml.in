@@ -23,6 +23,7 @@
 		</assets>
 		<summary lang="en_GB">Fairchild ChannelF (FreeChaF) 1.0</summary>
 		<description lang="da_DK">FreeChaF er en libretro-emuleringskerne til Fairchild ChannelF/Video Entertainment System designet til joypad-kompatibilitet.</description>
+		<description lang="de_DE">FreeChaF ist ein Libretro-Emulations-Core für das Fairchild ChannelF / Video Entertainment System, der für Joypad-Kompatibilität entwickelt wurde.</description>
 		<description lang="en_GB">FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility.</description>
 		<description lang="es_ES">FreeChaF es un núcleo de emulación libretro para el Fairchild ChannelF / Video Entertainment System diseñado para ser compatible con joypad.</description>
 		<description lang="it_IT">FreeChaF è un core di emulazione libretro per Fairchild ChannelF / Video Entertainment System progettato per la compatibilità con i joypad.</description>
