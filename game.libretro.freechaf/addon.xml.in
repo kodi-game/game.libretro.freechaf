@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Fairchild ChannelF (FreeChaF)</summary>
 		<summary lang="en_GB">Fairchild ChannelF (FreeChaF)</summary>
 		<summary lang="es_ES">Fairchild ChannelF (FreeChaF)</summary>
 		<description lang="da_DK">FreeChaF er en libretro-emuleringskerne til Fairchild ChannelF/Video Entertainment System designet til joypad-kompatibilitet.</description>
