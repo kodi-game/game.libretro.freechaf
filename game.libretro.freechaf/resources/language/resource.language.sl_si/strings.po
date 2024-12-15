@@ -25,10 +25,10 @@ msgctxt "Addon Description"
 msgid "FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility."
 msgstr "FreeChaF je libretro emulacijsko jedro za Fairchild ChannelF / Video Entertainment System, zasnovano za združljivost igralne plošče."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Clear screen in single frame"
 msgstr "Jasen zaslon v enem okvirju"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
