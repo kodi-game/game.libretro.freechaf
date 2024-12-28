@@ -1,1 +1,1 @@
-freechaf https://github.com/kodi-game/FreeChaF/archive/828b1b1b3f453e5469f6ff7ee3fa0cbdb2d24a09.tar.gz
+freechaf https://github.com/kodi-game/FreeChaF/archive/f460a27a2555d463d8c77aea4c74fb05f7d73aa2.tar.gz
