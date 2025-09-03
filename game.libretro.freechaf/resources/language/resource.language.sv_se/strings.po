@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
-msgid "Fairchild ChannelF (FreeChaF)"
-msgstr "Fairchild ChannelF (FreeChaF)"
+msgid "Fairchild - ChannelF (FreeChaF)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility."
@@ -28,6 +28,10 @@ msgstr "FreeChaF är en libretro-emuleringskärna för Fairchild ChannelF / Vide
 msgctxt "#30001"
 msgid "Clear screen in single frame"
 msgstr "Töm skärm i en enda bildruta"
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Fairchild ChannelF (FreeChaF)"
+#~ msgstr "Fairchild ChannelF (FreeChaF)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

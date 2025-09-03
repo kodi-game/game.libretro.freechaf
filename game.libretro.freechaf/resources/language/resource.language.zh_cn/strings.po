@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 5.9.2\n"
 
 msgctxt "Addon Summary"
-msgid "Fairchild ChannelF (FreeChaF)"
-msgstr "仙童 ChannelF (FreeChaF)"
+msgid "Fairchild - ChannelF (FreeChaF)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility."
@@ -28,6 +28,10 @@ msgstr "FreeChaF 是仙童 Channel F/视频娱乐系统的 libretro 仿真核心
 msgctxt "#30001"
 msgid "Clear screen in single frame"
 msgstr "单帧清除屏幕"
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Fairchild ChannelF (FreeChaF)"
+#~ msgstr "仙童 ChannelF (FreeChaF)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
