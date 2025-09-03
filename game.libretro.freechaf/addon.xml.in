@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.freechaf"
-		name="Fairchild ChannelF (FreeChaF)"
+		name="Fairchild - ChannelF (FreeChaF)"
 		version="1.0.0.32"
 		provider-name="David Richardson">
 	<requires>
@@ -22,7 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="da_DK">Fairchild ChannelF (FreeChaF)</summary>
-		<summary lang="en_GB">Fairchild ChannelF (FreeChaF)</summary>
+		<summary lang="en_GB">Fairchild - ChannelF (FreeChaF)</summary>
 		<summary lang="es_ES">Fairchild ChannelF (FreeChaF)</summary>
 		<summary lang="it_IT">Fairchild ChannelF (FreeChaF)</summary>
 		<summary lang="ko_KR">페어차일드 채널F (FreeChaF)</summary>

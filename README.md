@@ -1,4 +1,4 @@
-# Fairchild ChannelF (FreeChaF)
+# Fairchild - ChannelF (FreeChaF)
 
 ### Description
 
@@ -10,7 +10,7 @@ GPLv3
 
 ### Icon
 
-![Fairchild ChannelF (FreeChaF) icon](game.libretro.freechaf/resources/icon.png)
+![Fairchild - ChannelF (FreeChaF) icon](game.libretro.freechaf/resources/icon.png)
 
 ### Fanart
 
