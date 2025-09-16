@@ -17,7 +17,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.13.3\n"
 
-#, fuzzy
 msgctxt "Addon Summary"
 msgid "Fairchild - ChannelF (FreeChaF)"
 msgstr "Fairchild - ChannelF (FreeChaF)"
@@ -26,6 +25,7 @@ msgctxt "Addon Description"
 msgid "FreeChaF is a libretro emulation core for the Fairchild ChannelF / Video Entertainment System designed for joypad compatibility."
 msgstr "FreeChaF és un nucli d'emulació de libretro per al Fairchild ChannelF / Video Entertainment System dissenyat per a la compatibilitat amb joypads."
 
+#, fuzzy
 msgctxt "#30001"
 msgid "Clear screen in single frame"
 msgstr "Esborra la pantalla en un sol fotograma"
